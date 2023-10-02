@@ -1,0 +1,114 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding: 28px 111px;
+  }
+  
+  .head .amazing-and-super,
+  .head .text-wrapper,
+  .head .span {
+    font: 500 48px "Canela-Medium", Helvetica;
+    letter-spacing: 0;
+    line-height: 120%;
+  }
+  
+  .head .amazing-and-super {
+    color: transparent;
+    margin-top: -1px;
+    width: fit-content;
+  }
+  
+  .head .text-wrapper {
+    color: #d6ef0e;
+  }
+  
+  .head .span {
+    color: #fefffc;
+  }
+  
+  .head .CTA {
+    all: unset;
+    align-items: center;
+    background-color: #d6ef0e;
+    border-radius: 8px;
+    display: inline-flex;
+    gap: 12px;
+    height: 52px;
+    justify-content: center;
+    padding: 12px 40px;
+  }
+  
+  .head .div {
+    color: #ffffff;
+    font: 700 16px "Inter-Bold", Helvetica;
+    white-space: nowrap;
+    width: fit-content;
+  }
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  padding: 28px 111px;
+  
+}
+.cards .CTA {
+  all: unset;
+  align-items: center;
+  border: 1px solid;
+  border-color: #d6ef0e;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 50px;
+  justify-content: center;
+  margin-left: 60px;
+  margin-bottom: -10px;
+  margin-right: -1px;
+  padding: 12px 40px;
+  position: relative;
+  color: #d6ef0e;
+}
+
+.element .text-wrapper-4 {
+  color: #d6ef0e;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 120.00000476837158%;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+.card-container {
+  background-color: rgba(19, 30, 58, 1);
+}
+.card-text{
+  color: rgba(255, 255, 253, 1);
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+  margin-top: 20px;
+  /* line-height: 120.00000476837158%;
+  position: relative;
+  white-space: nowrap; */
+}
+.card-title{
+  color: rgba(255, 255, 253, 1);
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 120.00000476837158%;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

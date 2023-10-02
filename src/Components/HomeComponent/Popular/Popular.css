@@ -1,0 +1,129 @@
+.popular-artists{
+    padding: 28px 111px;
+
+}
+.title {
+    align-items: center;
+    display: inline-flex;
+    gap: 700px;
+    justify-content: center;
+    position: relative;
+}
+
+.title .popular-artists-on {
+    color: transparent;
+    font-family: "Canela-Medium", Helvetica;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 120.00000476837158%;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.title .text-wrapper {
+    color: #fefffc;
+    font-family: "Canela-Medium", Helvetica;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 120.00000476837158%;
+    
+}
+
+.title .span {
+    color: #d6ef0e;
+    font-family: "Canela-Medium", Helvetica;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 120.00000476837158%;
+}
+
+.title .CTA {
+    all: unset;
+    align-items: center;
+    background-color: #d6ef0e;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    height: 52px;
+    justify-content: center;
+    padding: 12px 40px;
+    position: relative;
+    cursor: pointer;
+
+}
+.title .text-wrapper-2{
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0px;}
+
+.imageacc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.imageacc .card {
+  position: relative;
+  width: 18rem;
+  border: none;
+}
+
+.imageacc .card .card-img-top {
+  object-fit: cover;
+  height: 250px;
+}
+
+.imageacc .card .card-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0.5rem;
+  text-align: center;
+  background-color: transparent;
+  border: none;
+}
+
+.imageacc .card .card-footer .card-text {
+  color: black;
+}
+
+.imageacc .card .card-footer:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.imageacc .card .card-footer button {
+  background-color: transparent;
+  border: none; 
+  color: #ffffff; 
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  width: 150px;
+  text-align: left;
+  margin-right: 30%;
+}
+.button-content {
+    text-align: center;
+  }
+  
+  .button-heading {
+    font-size: 14px; 
+    font-weight: bold;
+  }
+  
+  .button-subheading {
+    font-size: 14px; 
+  }
+  

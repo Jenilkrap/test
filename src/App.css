@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  background-color: #121a36;
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

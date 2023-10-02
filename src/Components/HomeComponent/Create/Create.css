@@ -1,0 +1,157 @@
+.create-and-sell-your {
+    display: inline-flex;
+    gap: 124px;
+    justify-content: center;
+    padding: 28px 111px;
+    position: relative;
+}
+
+.create-and-sell-your .rectangle {
+    background-color: rgba(31, 65, 61, 1);
+    filter: blur(250px);
+    height: 128px;
+    position: absolute;
+    top: 570px;
+    width: 346px;
+}
+
+.create-and-sell-your .content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    position: relative;
+    width: 426px;
+    padding-top: 80px;
+}
+
+.create-and-sell-your .title {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    width: 100%;
+}
+
+.create-and-sell-your .div {
+    color: transparent;
+    font-family: "Canela-Medium", Helvetica;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 120.00000476837158%;
+    margin-top: -1px;
+    position: relative;
+}
+
+.create-and-sell-your .text-wrapper{
+    font-family: "Canela-Medium", Helvetica;
+    font-size: 48px;
+    font-weight: 500;
+    color: rgba(255, 255, 253, 1);
+    /* line-height: 120.00000476837158%; */
+
+}
+
+.create-and-sell-your .p {
+    color: rgba(255, 255, 253, 1);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160.0000023841858%;
+    position: relative;
+}
+
+.create-and-sell-your .CTA {
+    align-items: center;
+    display: inline-flex;
+    gap: 36px;
+    position: relative;
+}
+
+.create-and-sell-your .create-now-wrapper {
+    background-color: #d6ef0e;
+    border-radius: 8px;
+    display: inline-flex;
+    height: 52px;
+    justify-content: center;
+    padding: 12px 40px;
+    position: relative;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+
+.create-and-sell-your .create-now-wrapper2 {
+    /* border-radius: 8px; */
+    display: inline-flex;
+    height: 52px;
+    justify-content: center;
+    padding: 12px 40px;
+    position: relative;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+
+}
+
+
+.create-and-sell-your .create-now{
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 120.00000476837158%;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    
+}
+
+.create-and-sell-your .text-wrapper-2 {
+    color: rgba(255, 255, 253, 1);
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 120.00000476837158%;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+
+}
+
+.create-and-sell-your .group {
+    height: 559px;
+    position: relative;
+    width: 740px;
+}
+
+.create-and-sell-your .overlap-group {
+    height: 559px;
+    position: relative;
+}
+
+.create-and-sell-your .img {
+    height: 475px;
+    left: 330px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 410px;
+}
+
+.create-and-sell-your .rectangle-2 {
+    height: 400px;
+    left: 0;
+    position: absolute;
+    top: 159px;
+    width: 410px;
+}
+
+.create-and-sell-your .rectangle-3 {
+    background-color: rgba(19, 30, 58, 1);
+    filter: blur(350px);
+    height: 257px;
+    left: -140px;
+    position: absolute;
+    top: 615px;
+    width: 291px;
+}
